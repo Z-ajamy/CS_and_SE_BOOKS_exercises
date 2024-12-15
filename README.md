@@ -58,7 +58,7 @@ The topics I will study include, but are not limited to, the following:
 - System Design  
 - And more...
 
-==This plan may take between 7 to 9 years, but I don't need to complete them all to get a good job. In fact, I expect that after 3 years, I will be at Google (of course, if the plan goes as required 🙂).==
+**This plan may take between 7 to 9 years, but I don't need to complete them all to get a good job. In fact, I expect that after 3 years, I will be at Google (of course, if the plan goes as required 🙂).**
 
 [^1]: Changes may occur in the plan or the arrangement of its elements in the future.
 
