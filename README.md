@@ -1,50 +1,57 @@
 ### Hi again, it's me Abd al-rahman Al-ajamy
 
-this is my **HARD ROUDMAP** it's based on books and depends on delving into each topic as much as possible[^1].
+This is my **HARD ROADMAP**, which is based on books and focuses on delving into each topic as deeply as possible[^1].
+
 ![The Alchemist in Search of the Philosopher's Stone][Alchemist]
 
-## DOD
-It is also important to tell you about my own definition of done *DOD* that I will follow.
+## Definition of Done *DOD*
 
-    1. Search for the best books and other resources on the topic under study.
-    2. Read and follow every piece of information as much as possible to reach the deepest point that can be reached and benefited from.
-    3. Summarizing it in my paper summaries in a non-derogatory summary.
-    4. Understand how it affects the higher levels *if I am studying at a low level*, or understand how it affects the lower levels *if I am studying at a high level*.
-    5. Solve the book exercises
-    6. Solving problems related to the subject under study will most likely depend on leetcode.
-    7. Practical application on a large project that includes previous concepts as a kind of review on them and the concepts that you have just completed.
-    8. Teasting & Teasting
-    9. Feynman Technique test for understanding and the ability to explain information without complexity and without resorting to any source other than ideas (neither Google nor ChatGPT)
-    10. Engage with a technical audience using LinkedIn, GitHub, Medium, or Stack Overflow.
+==It is also important to tell you about my own definition of done *DOD* that I will follow.==
+1. **Search for resources**: Look for the best books and other reliable resources on the topic under study.  
+2. **Deep reading**: Study and follow every detail as much as possible to reach the deepest point of understanding and application.  
+3. **Summarization**: Write comprehensive yet concise paper summaries that cover all key points without omitting essential details.  
+4. **Relational understanding**:  
+   - Understand how the topic influences higher levels if I am studying at a low level.  
+   - Understand its foundational role if I am studying at a high level.  
+5. **Exercise practice**: Solve all exercises provided in the books or other resources.  
+6. **Problem-solving**: Practice problems related to the subject, primarily using platforms like LeetCode.  
+7. **Project application**: Develop a large, practical project that integrates previously studied concepts as a review and applies newly learned ideas.  
+8. **Testing & Iteration**: Conduct thorough testing, iterating until the solution or project is robust.  
+9. **Feynman Technique**: Test my understanding by explaining the topic clearly without using any external aids (neither Google nor ChatGPT).  
+10. **Community engagement**: Share knowledge and progress with the technical community using platforms like LinkedIn, GitHub, Medium, or Stack Overflow.
 
 ***
+
+> I had to be a struggler myself, and a becoming and a goal and a contradiction of goals. Alas, how could anyone guess my will in its pathways?
+> *Friedrich Nietzsche*
+
 ![ubermensch][ubermensch]
+
 ## Topics
 
-
-The topics I will study will be as follows:
+The topics I will study include, but are not limited to, the following:
 
 - Mind mapping  
 - C  
 - C++  
 - Testing  
-- Algorithm  
-- Data structure  
-- Database  
+- Algorithms  
+- Data structures  
+- Databases  
 - Design patterns  
 - Coding  
 - Linux  
-- SE Fundamentals  
+- Software Engineering Fundamentals  
 - Operating systems  
 - Computer architecture  
 - Computer networks  
 - APIs  
-- Mathematics for CS  
+- Mathematics for Computer Science  
 - Python  
 - Python frameworks  
-- JS  
-- JS frameworks  
-- Security for back end  
+- JavaScript  
+- JavaScript frameworks  
+- Security for back-end systems  
 - Distributed Systems  
 - System Design  
 - And more...
