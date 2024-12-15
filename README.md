@@ -4,7 +4,7 @@ This is my **HARD ROADMAP**, which is based on books and focuses on delving into
 
 ![The Alchemist in Search of the Philosopher's Stone][Alchemist]
 
-## Definition of Done *DOD*
+## Definition of Done *(DOD)*
 
 ==It is also important to tell you about my own definition of done *DOD* that I will follow.==
 1. **Search for resources**: Look for the best books and other reliable resources on the topic under study.  
