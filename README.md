@@ -23,6 +23,7 @@ This is my **HARD ROADMAP**, which is based on books and focuses on delving into
 ***
 
 > I had to be a struggler myself, and a becoming and a goal and a contradiction of goals. Alas, how could anyone guess my will in its pathways?
+>
 > *Friedrich Nietzsche*
 
 ![ubermensch][ubermensch]
