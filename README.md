@@ -24,30 +24,30 @@ It is also important to tell you about my own definition of done *DOD* that I wi
 
 The topics I will study will be as follows:
 
-    - Mind mapping
-    + C
-    + C++
-    + Testing 
-    + Algorithm 
-    + Data structure 
-    + Database 
-    + Design patterns
-    + Coding 
-    + Linux 
-    + SE Fundamentals 
-    + Operating systems
-    + Computer architecture 
-    + Computer networks
-    + APIs
-    + Mathematics for CS
-    + Python 
-    + Python frameworks
-    + JS
-    + JS frameworks 
-    + Security for back end 
-    + Distributed Systems
-    + System Design
-    + And more...
+- Mind mapping  
+- C  
+- C++  
+- Testing  
+- Algorithm  
+- Data structure  
+- Database  
+- Design patterns  
+- Coding  
+- Linux  
+- SE Fundamentals  
+- Operating systems  
+- Computer architecture  
+- Computer networks  
+- APIs  
+- Mathematics for CS  
+- Python  
+- Python frameworks  
+- JS  
+- JS frameworks  
+- Security for back end  
+- Distributed Systems  
+- System Design  
+- And more...
 
 ==This plan may take between 7 to 9 years, but I don't need to complete them all to get a good job. In fact, I expect that after 3 years, I will be at Google (of course, if the plan goes as required 🙂).==
 
