@@ -6,7 +6,7 @@ This is my **HARD ROADMAP**, which is based on books and focuses on delving into
 
 ## Definition of Done *(DOD)*
 
-==It is also important to tell you about my own definition of done *DOD* that I will follow.==
+== It is also important to tell you about my own definition of done *DOD* that I will follow. ==
 1. **Search for resources**: Look for the best books and other reliable resources on the topic under study.  
 2. **Deep reading**: Study and follow every detail as much as possible to reach the deepest point of understanding and application.  
 3. **Summarization**: Write comprehensive yet concise paper summaries that cover all key points without omitting essential details.  
