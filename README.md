@@ -24,7 +24,7 @@ It is also important to tell you about my own definition of done *DOD* that I wi
 
 The topics I will study will be as follows:
 
-    + Mind mapping
+    - Mind mapping
     + C
     + C++
     + Testing 
