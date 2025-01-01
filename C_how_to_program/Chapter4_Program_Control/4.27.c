@@ -18,11 +18,9 @@ int main(){
                 c = (int)pow(k, 2);
 
                 if (a == b + c)
-                    printf("Pythagorean Triple: %d, %d, %d\n", i, j, k);;
+                    printf("Pythagorean Triple: %d, %d, %d\n", i, j, k);
             }
-            
         }
-        
     }
     return 0;
 }
