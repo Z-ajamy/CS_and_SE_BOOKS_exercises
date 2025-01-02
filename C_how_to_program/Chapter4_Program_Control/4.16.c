@@ -4,7 +4,7 @@ int main(void){
     int i, direction, count, j;
     char c;
     printf("%s\n", "Which direction of triangle do you want?");
-    printf("%s", "1.left up 2.right up 3.left down 4.right up (put the number): ");
+    printf("%s", "1.left up 2.right up 3.left down 4.right down (put the number): ");
     scanf("%d", &direction);
     printf("%s", "What is the symbol of the triangle? ");
     getchar();
@@ -18,60 +18,46 @@ int main(void){
         for (i = 1; i <= count; i++)
         {
             for (j = 1; j <= i; j++)
-            {
                 printf("%c", c);
-            }
             printf("\n");
         }
-        
         break;
     
     case 2:
     for (i = 1; i <= count; i++)
         {
-            for (j = 1; j <=count; j++)
+            for (j = 1; j <= count; j++)
             {
                 if (j <= (count - i))
-                {
                     printf(" ");
-                }
                 else
-                {
                     printf("%c", c);
-                }
             }
             printf("\n");
         }
-
         break;
 
     case 3:
-        for (i = count; i > 0; i--)
+        for (i = count; i >= 1; i--)
         {
-            for (j = 0; j < i; j++)
-            {
+            for (j = 1; j <= i; j++)
                 printf("%c", c);
-            }
             printf("\n");
         }
-        
         break;
 
     case 4:
-        for (i = count; i > 0; i--)
+        for (i = count; i >= 1; i--)
         {
             for (j = 1; j <= count; j++)
             {
                 if (j <= (count - i))
-                {
                     printf(" ");
-                }
                 else
                     printf("%c", c);
             }
             printf("\n");
         }
-        
         break;
 
     default:
