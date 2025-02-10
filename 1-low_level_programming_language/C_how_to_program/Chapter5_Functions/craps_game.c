@@ -1,6 +1,5 @@
 /*
  * File: craps_game.c
- * Author: Your Name
  * Description: A simple dice game simulation based on the game of Craps.
  */
 
