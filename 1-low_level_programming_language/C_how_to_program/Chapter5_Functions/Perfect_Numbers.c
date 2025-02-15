@@ -9,7 +9,11 @@
 int Perfect_Numbers(int x)
 {
 	int sum_of_factors = 0, i;
-
+    if (x == 0)
+    {
+        return (0);
+    }
+    
 	for (i = 1; i < x; i++)
 	{
 		if (x % i == 0)
