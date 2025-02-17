@@ -18,13 +18,13 @@ void a_bar_chart(int size)
     {
         do
         {
-            printf("Please enter the %d%s frequency (max 110): ", 
+            printf("Please enter the %d%s frequency (max 110 and not negative): ", 
                 i + 1,
                 ((i + 1) % 10 == 1 && (i + 1) % 100 != 11) ? "st" :
                 ((i + 1) % 10 == 2 && (i + 1) % 100 != 12) ? "nd" :
                 ((i + 1) % 10 == 3 && (i + 1) % 100 != 13) ? "rd" : "th");
 
-            if (scanf("%d", &a[i]) != 1)  /* Ensuring valid input */
+            if (scanf("%d", &a[i]) != 1 || a[i] < 0)  /* Ensuring valid input */
             {
                 printf("Invalid input. Please enter an integer.\n");
                 while (getchar() != '\n'); /* Clearing buffer */
