@@ -1,5 +1,7 @@
 # Data Structures
 
+![Data Structures and Algorithms](https://devopedia.org/images/article/398/5587.1645253127.png)
+
 ## Overview
 This learning track is designed for students and professionals who want to develop a strong foundation in data structures and algorithms using C++. The track is based on two authoritative books:
 
