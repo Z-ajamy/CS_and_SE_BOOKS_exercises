@@ -8,18 +8,18 @@ This is my **HARD ROADMAP**, which is based on books and focuses on delving into
 
 **It is also important to tell you about my own definition of done *DOD* that I will follow.**
 
-1. **Search for resources**: Look for the best books and other reliable resources on the topic under study.  
-2. **Deep reading**: Study and follow every detail as much as possible to reach the deepest point of understanding and application.  
-3. **Summarization**: Write comprehensive yet concise paper summaries that cover all key points without omitting essential details.  
-4. **Relational understanding**:  
+0. **Search for resources**: Look for the best books and other reliable resources on the topic under study.  
+1. **Deep reading**: Study and follow every detail as much as possible to reach the deepest point of understanding and application.  
+2. **Summarization**: Write comprehensive yet concise paper summaries that cover all key points without omitting essential details.  
+3. **Relational understanding**:  
    - Understand how the topic influences higher levels if I am studying at a low level.  
    - Understand its foundational role if I am studying at a high level.  
-5. **Exercise practice**: Solve all exercises provided in the books or other resources.  
-6. **Problem-solving**: Practice problems related to the subject, primarily using platforms like [LeetCode][leetcode].  
-7. **Project application**: Develop a large, practical project that integrates previously studied concepts as a review and applies newly learned ideas.  
-8. **Testing & Iteration**: Conduct thorough testing, iterating until the solution or project is robust.  
-9. **Feynman Technique**: Test my understanding by explaining the topic clearly without using any external aids (neither Google nor ChatGPT).  
-10. **Community engagement**: Share knowledge and progress with the technical community using platforms like LinkedIn, GitHub, Medium, or Stack Overflow.
+4. **Exercise practice**: Solve all exercises provided in the books or other resources.  
+5. **Problem-solving**: Practice problems related to the subject, primarily using platforms like [LeetCode][leetcode].  
+6. **Project application**: Develop a large, practical project that integrates previously studied concepts as a review and applies newly learned ideas.  
+7. **Testing & Iteration**: Conduct thorough testing, iterating until the solution or project is robust.  
+8. **Feynman Technique**: Test my understanding by explaining the topic clearly without using any external aids (neither Google nor ChatGPT).  
+9. **Community engagement**: Share knowledge and progress with the technical community using platforms like LinkedIn, GitHub, Medium, or Stack Overflow.
 
 ***
 
@@ -33,17 +33,25 @@ This is my **HARD ROADMAP**, which is based on books and focuses on delving into
 
 The topics I will study include, but are not limited to, the following:
 
-1. **Mind Mapping:**
+0. **Mind Mapping:**
     * *The Mind Map Book: How to Use Radiant Thinking to Maximize Your Brain's Untapped Potential*
     * *Idea Mapping: Access Your Hidden Brain Power*
 
-2. **C Programming:**
+1. **low level programming language:**
     * *C How to Program* (Various Editions)
     * *Deitel C How To Program* (Various Editions)
-
-3. **C++ Programming:**
     * *C++ How to Program* (Various Editions)
     * *Object-Oriented Programming in C++* (Various Editions)
+
+2. **Algorithms:**
+    * *Algorithms Unplugged*
+    * *Algorithms in C* (Parts 1-5)
+    * *Introduction to Algorithms* (Various Editions)
+    * *The Algorithm Design Manual* (Various Editions)
+    * *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*
+
+3. **Data Structures:**
+    * *Data Structures*
     * *Data Structures and Algorithms in C++*
 
 4. **Testing:**
@@ -53,18 +61,7 @@ The topics I will study include, but are not limited to, the following:
     * *Agile Testing: A Practical Guide for Testers and Agile Teams*
     * *Foundations of Software Testing*
 
-5. **Algorithms:**
-    * *Algorithms Unplugged*
-    * *Algorithms in C* (Parts 1-5)
-    * *Introduction to Algorithms* (Various Editions)
-    * *The Algorithm Design Manual* (Various Editions)
-    * *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*
-
-6. **Data Structures:**
-    * *Data Structures*
-    * *Data Structures and Algorithms in C++*
-
-7. **Databases:**
+5. **Databases:**
     * *Concise Guide to Databases*
     * *Practical SQL: A Beginner's Guide to Storytelling with Data*
     * *Learning SQL: Master SQL Fundamentals*
@@ -73,18 +70,18 @@ The topics I will study include, but are not limited to, the following:
     * *High Performance MySQL*
     * *NoSQL Distilled*
 
-8. **Design Patterns:**
+6. **Design Patterns:**
     * *Head First Design Patterns*
     * *Design Patterns: Elements of Reusable Object-Oriented Software*
     * *Patterns of Enterprise Application Architecture*
 
-9. **Coding:**
+7. **Coding:**
     * *Clean Code: A Handbook of Agile Software Craftsmanship*
     * *Code Complete*
     * *Refactoring: Improving the Design of Existing Code*
     * *Working Effectively with Legacy Code*
 
-10. **Linux:**
+8. **Linux:**
     * *Advanced Bash-Scripting Guide*
     * *Advanced Programming in the UNIX Environment*
     * *Beginning the Linux Command Line*
@@ -93,34 +90,34 @@ The topics I will study include, but are not limited to, the following:
     * *The Linux Command Line*
     * *UNIX and Linux System Administration Handbook*
 
-11. **Software Engineering Fundamentals:**
+9. **Software Engineering Fundamentals:**
     * *Software Engineering: A Practitioner's Approach*
     * *Agile Software Development*
     * *Domain Driven Design: Tackling Complexity in the Heart of Software*
     * *Software Architecture in Practice*
 
-12. **Operating Systems:**
+10. **Operating Systems:**
     * *Operating System Concepts*
     * *Operating Systems: Design and Implementation*
     * *Computer Systems: A Programmer's Perspective*
     * *Operating Systems: Three Easy Pieces*
 
-13. **Computer Architecture:**
+11. **Computer Architecture:**
     * *Understanding Computer Organization: A Guide for Programmers*
     * *Structured Computer Organization*
     * *Computer Organization and Architecture* (Various Editions)
     * *Computer Systems: A Programmer's Perspective*
     * *Crafting Interpreters*
 
-14. **Computer Networks:**
+12. **Computer Networks:**
     * *Computer Networks*
     * *Data Communications and Networking*
     * *High-Performance Browser Networking*
 
-15. **APIs:**
+13. **APIs:**
     * *REST API Design Rulebook*
 
-16. **Mathematics for Computer Science:**
+14. **Mathematics for Computer Science:**
     * *Discrete Mathematics and Its Applications*
     * *Concrete Mathematics*
     * *Introduction to Probability* (Various Books)
@@ -128,41 +125,34 @@ The topics I will study include, but are not limited to, the following:
     * *The Elements of Statistical Learning*
     * *Cryptography and Network Security* (Various Books)
 
-17. **Python Programming:**
+15. **Python Programming:**
     * *Python Crash Course*
     * *Learning Python*
     * *Programming Python*
     * *Fluent Python*
     * *Automate the Boring Stuff with Python*
 
-18. **Python Frameworks:** (List of frameworks and associated books will be added here)
+16. **Python Frameworks:** (List of frameworks and associated books will be added here)
 
-19. **JavaScript Programming:**
+17. **JavaScript Programming:**
     * *JavaScript: The Definitive Guide*
 
-20. **JavaScript Frameworks:** (List of frameworks and associated books will be added here)
+18. **JavaScript Frameworks:** (List of frameworks and associated books will be added here)
 
-21. **Security for Back-End Systems:**
+19. **Security for Back-End Systems:**
     * *The Web Application Hacker's Handbook*
     * *Building Secure and Reliable Systems*
 
-22. **Distributed Systems:**
+20. **Distributed Systems:**
     * *Distributed Systems: Concepts and Design*
     * *Building Microservices: Designing Fine-Grained Systems*
 
-23. **System Design:**
+21. **System Design:**
     * *Grokking the System Design Interview*
     * *System Design Interview: An Insider's Guide*
 
 And more... (This list will be expanded as I continue my learning journey).
 
-## Data Science Track (Separate Folder)
-
-* **Artificial Intelligence:** *Artificial Intelligence: A Modern Approach*, *Artificial Intelligence By Example*
-* **Computer Vision:** *Digital Image Processing*, *OpenCV 4 with Python Blueprints*
-* **Data Analysis:** *Python for Data Analysis*, *R in Action*
-* **Deep Learning:** *Deep Learning*, *Deep Learning for Coders with fastai and PyTorch*
-* **Machine Learning:** *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*, *Machine Learning in Action*
 
 ## Problem Solving Track (Separate Folder)
 
@@ -173,17 +163,8 @@ And more... (This list will be expanded as I continue my learning journey).
 * *Think Like a Programmer*
 * *The Art and Craft of Problem Solving*
 
-## Career Tools
-
-* *Markdown Guide*
-
-## Other Plans
-
-* Roadmaps and study plans.
-
 ## Technologies (Separate Folder)
 
-This folder contains resources related to specific technologies.
 
 **This plan may take between 7 to 9 years, but I don't need to complete them all to get a good job. In fact, I expect that after 3 years, I will be at Google (of course, if the plan goes as required 🙂).**
 
