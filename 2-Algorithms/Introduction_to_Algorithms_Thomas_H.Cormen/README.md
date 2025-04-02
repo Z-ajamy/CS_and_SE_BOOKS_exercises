@@ -1,6 +1,6 @@
 # Introduction to Algorithms (4th Edition) - Study Guide
 
-![Introduction to Algorithms](https://live.staticflickr.com/5103/5597480405_509b36f736_b.jpg)
+![Introduction to Algorithms](https://i0.wp.com/programming-digressions.com/wp-content/uploads/2022/06/IMG_1509-768x1024.jpeg?resize=723%2C450&ssl=1)
 
 ## 📖 Book Overview
 **Title:** Introduction to Algorithms (4th Edition)  
