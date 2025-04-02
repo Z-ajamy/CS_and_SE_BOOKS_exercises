@@ -1,5 +1,7 @@
 # Introduction to Algorithms (4th Edition) - Study Guide
 
+![Introduction to Algorithms](https://live.staticflickr.com/5103/5597480405_509b36f736_b.jpg)
+
 ## 📖 Book Overview
 **Title:** Introduction to Algorithms (4th Edition)  
 **Authors:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
@@ -128,4 +130,3 @@ To effectively master the content of CLRS, follow this structured plan:
 - Discuss problems in study groups or online forums.
 
 🚀 **Happy Learning!** 🚀
-
