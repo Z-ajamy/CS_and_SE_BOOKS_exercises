@@ -64,5 +64,3 @@ To make the most of this track, learners should have:
 
 ## Conclusion
 Mastering data structures and algorithms in C++ is a crucial step for software engineers, competitive programmers, and computer science students. This track, based on two highly respected books, provides a structured path for learning, practice, and mastery. By following the curriculum and applying the knowledge in coding challenges and projects, learners will be well-prepared for interviews and real-world problem-solving.
-
-Happy Learning!
