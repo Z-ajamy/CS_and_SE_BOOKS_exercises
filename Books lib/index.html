@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Book Store</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="cart-icon" onclick="showCart()">
+        Cart 🛒 <span class="cart-count">0</span>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1> Book Store 📚</h1>
+            <p style="color: #777777; font-size: 1.1em;">Discover a world of amazing books</p>
+        </header>
+
+        <div class="search-section">
+            <input type="text" class="search-bar" id="searchInput"
+                placeholder=" Search for book, author, or category... 🔍">
+        </div>
+
+        <div class="filter-buttons">
+            <button class="filter-btn active" onclick="filterBooks('all')">All</button>
+            <button class="filter-btn" onclick="filterBooks('Novels')">Novels</button>
+            <button class="filter-btn" onclick="filterBooks('Science')">Science</button>
+            <button class="filter-btn" onclick="filterBooks('History')">History</button>
+            <button class="filter-btn" onclick="filterBooks('Self-learning')">Self-learning</button>
+            <button class="filter-btn" onclick="filterBooks('Kids')">Kids</button>
+        </div>
+
+        <div id="shelvesContainer"></div>
+
+        <div class="pagination" id="pagination"></div>
+
+        <div class="admin-section" style="    text-align: center;">
+            <h2 style="color: white; margin-bottom: 20px;"> ADD BOOK</h2>
+            <div class="admin-form">
+                <input type="text" id="adminTitle" placeholder="Book Title">
+                <input type="text" id="adminAuthor" placeholder="Author">
+                <input type="number" id="adminPrice" placeholder="Price">
+                <select id="adminCategory">
+                    <option value="">Select Category</option>
+                    <option value="Novels">Novels</option>
+                    <option value="Science">Science</option>
+                    <option value="History">History</option>
+                    <option value="Self-learning">Self-learning</option>
+                    <option value="Kids">Kids</option>
+                </select>
+                <input type="text" id="adminLink" placeholder="Book Link (PDF or URL)">
+
+                <input type="text" id="adminCover" placeholder="Cover Image URL">
+                <textarea id="adminDescription" placeholder="Book Description"></textarea>
+            </div>
+            <button class="admin-btn" onclick="addNewBook()" style="margin-top: 15px;"> Add New Book ➕</button>
+        </div>
+    </div>
+
+    <div class="modal" id="bookModal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal()">×</span>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

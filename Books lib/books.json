@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "title": "Intro-to-UX",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 150,
+        "cover": "ux.png",
+        "link": "https://cdn.harmash.com/books/12/cec30ab7e0864b01a57baa33a8a9c7b5/Intro-to-UX-Arabic-v1.0.pdf",
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 2,
+        "title": "Learn Js",
+        "cover": "js.jpg",
+        "link": "https://cdn.harmash.com/books/52/92021a89d30b450c8f94fbc5d6f02242/javascript-by-hsoub.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 130,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 3,
+        "title": "Database-Design",
+        "cover": "data_base.png",
+        "link": "https://cdn.harmash.com/books/36/6e0859cb70904bb1a8bcb9629e813472/database-design-ar-hsoub-academy-v1.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 170,
+        "rating": 4,
+        "reviews": []
+    },
+    {
+        "id": 4,
+        "title": "Artificial-Intelligence-and-Machine-Learning",
+        "cover": "ai.jpg",
+        "link": "https://cdn.harmash.com/books/11/4defb3c62a974442b7b0a1d79e6f35c2/Artificial-Intelligence-and-Machine-Learning-ar-v1.0.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 200,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 5,
+        "title": "Learn-Programming-With-Scratch-Cat",
+        "cover": "cat.jpg",
+        "link": "https://cdn.harmash.com/books/54/b20f4db965e14053adf20295d1608186/learn-programming-with-scratch-cat-v1.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 110,
+        "rating": 4,
+        "reviews": []
+    },
+    {
+        "id": 6,
+        "title": "vpn",
+        "cover": "vpn.png",
+        "link": "https://cdn.harmash.com/books/128/781dfdaa30584007b4a3c57c1d7a950c/VPN.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 100,
+        "rating": 3,
+        "reviews": []
+    },
+    {
+        "id": 7,
+        "title": "! Pay Me Or ",
+        "cover": "pay_me.png",
+        "link": "https://cdn.harmash.com/books/10/74e72e4a321c45b79055f7ebbf535bca/Pay-Me-Or-Else-Arabic-v1.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 130,
+        "rating": 4,
+        "reviews": []
+    },
+    {
+        "id": 8,
+        "title": "SQL-Notes-For-Professionals",
+        "cover": "sql.png",
+        "link": "https://cdn.harmash.com/books/13/926a85d7f84b4f2195113f3df96eb887/SQL-Notes-For-Professionals-ar-v1.0.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 170,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 9,
+        "title": "Oprating System",
+        "cover": "oprating_system.png",
+        "link": "https://cdn.harmash.com/books/15/e30e26efc463445c93e6ae6bf4e6b790/Think-OS-ar-Hsoub-Academy-v1.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 120,
+        "rating": 4,
+        "reviews": []
+    },
+    {
+        "id": 10,
+        "title": "CSS-Animation",
+        "cover": "css.png",
+        "link": "https://cdn.harmash.com/books/22/aef7d7cd80804c31a2f5370ee98b75ed/CSS-Animation-Arabic.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 150,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 11,
+        "title": "Dive-Into-HTML5",
+        "cover": "html.png",
+        "link": "https://cdn.harmash.com/books/14/88576448d4434f2d9d265939cdeaba6b/Dive-Into-HTML5-Arabic-1.0.0.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 90,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 12,
+        "title": "programming-using-c-language",
+        "cover": "c.png",
+        "link": "https://cdn.harmash.com/books/70/215a8255ad2e4a7db9d643534156f563/programming-using-c-language-by-hsoub.pdf",
+        "author": "Victor Hugo",
+        "category": "Self-learning",
+        "description": "A global novel telling the story of Jean Valjean and his struggle for freedom and justice in 19th-century France.",
+        "price": 160,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 13,
+        "title": "يوم في المزرعه",
+        "cover": "k1.jpg",
+        "link": "https://kidzzstory.com/wp-content/uploads/2025/08/%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D8%B9%D8%A9.pdf",
+        "author": "نجلاء شوقي",
+        "category": "Kids",
+        "description": "اكتشفوا قصة يوم في المزرعة مع ندى. مغامرة ممتعة بين الحيوانات مثل الحصان والبقرة والخروف، وإطعام الدجاج والأرانب. حكاية جميلة عن حياة الريف السعيدة",
+        "price": 30,
+        "rating": 5,
+        "reviews": []
+    },
+    {
+        "id": 14,
+        "title": "صديق بطوط الصغير",
+        "cover": "k3.jpg",
+        "link": "https://kidzzstory.com/wp-content/uploads/2025/08/%D8%B5%D8%AF%D9%8A%D9%82-%D8%A8%D8%B7%D9%88%D8%B7-%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1.pdf",
+        "author": "ألبير مطلق",
+        "category": "Kids",
+        "description": "ةقصة صديق بطوط الصغير، حكاية تعلم الأطفال تقبل الآخرين حين يرفض إخوة بطوط اللعب مع ضفدع مختلف، لكن بطوط يرحب به ليثبت أن الصداقة والمرح يجمعان الجميع.",
+        "price": 60,
+        "rating": 4,
+        "reviews": []
+    },
+    {
+        "id": 15,
+        "title": "رحله للمعسكر",
+        "cover": "k2.jpg",
+        "link": "https://kidzzstory.com/wp-content/uploads/2025/08/%D8%B1%D8%AD%D9%84%D8%A9-%D9%84%D9%84%D9%85%D8%B9%D8%B3%D9%83%D8%B1.pdf",
+        "author": "حمدي مصطفي",
+        "category": "Kids",
+        "description": "نقدم لكم قصة رحلة للمعسكر. مغامرة تعليمية للأطفال عن الجيش وكيف يدافع أبطال الجيش ورجاله عن الوطن بالدبابات، الطائرات، الرادار، الأسطول، والغواصات.",
+        "price": 40,
+        "rating": 3,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 16,
+        "title": "صديق الدب الجديد",
+        "cover": "k4.jpg",
+        "link": "https://kidzzstory.com/wp-content/uploads/2025/08/%D8%B5%D8%AF%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.pdf",
+        "author": "ألبير مطلق",
+        "category": "Kids",
+        "description": "قصة صديق الدب الجديد، حكاية دبدب وأصدقائه الذين يبحثون عن صوت غامض ليكتشفوا صديقًا خجولاً. مغامرة لطيفة عن أهمية الترحيب بالآخرين وتكوين صداقات جديدة.",
+        "price": 50,
+        "rating": 4,
+        "reviews": []
+    }
+   
+    ,
+    {
+        "id": 17,
+        "title": "كن لنفسك كل شيء",
+        "cover": "n1.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c3fb7eb860d0a617352253fd732a5046",
+        "author": "عمار الشمري",
+        "category": "Novels",
+        "description": "كتاب كن لنفسك كل شيء : تقف علي اعتاب ابواب الصمت ننتظر ان يفتح الباب الذي يربت علي جروح المشاعر في محاولة يائسة للراحة, و لكن لن تجد العون الا من نفسك, لن يكون ظهيرك المقاوم و جيشك المقاتل الا نفسك فكن لنفسك كل شيء. هذا ما اراد ان يبينه",
+        "price": 150,
+        "rating": 5,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 18,
+        "title": "عطش البحر",
+        "cover": "n2.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c3fa78b966d0a617352253fd70215340",
+        "author": "رجب الطيب",
+        "category": "Novels",
+        "description": "تتحدث عن الأنتفاضة الفلسطينية الأولى , التي انطلقت عام 1987 , وتظهر حجم المعاناة التي تعرض لها الشعب الفلسطيني جراء الأحتلال , وكانت سببا في ثورته العارمة , كما انها تقول وتؤكد بانه رغم التضحيات , فأن فجر الحرية قادم لا محالة .",
+        "price": 120,
+        "rating": 4,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 19,
+        "title": "ضجيج الصمت",
+        "cover": "n4.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c0fb7ab467d0a617352253fd7026504b",
+        "author": "أمال الشاذلي",
+        "category": "Novels",
+        "description": "تدور الرواية حول يوسف الذي يعيش عالماً مضطرباً من الأفكار والوساوس، حيث يصبح صمت الأشياء أكثر إزعاجاً وضجيجاً من الأصوات الحقيقية، في رحلة للبحث عن معنى السكون والسلام الداخلي المفقود.",
+        "price": 40,
+        "rating": 3,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 20,
+        "title": "وبدأ الطلام",
+        "cover": "n3.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c0ff7ab964d0a617352253fd76235744",
+        "author": "عمرو المنوفي",
+        "category": "Novels",
+        "description": " تستعرض التحول المأساوي في حياة طبيب نفسي ناجح، يجد نفسه فجأة محاصراً في شبكة من الأسرار والغموض بعد تلقيه مكالمة غامضة، ليبدأ الصراع بين واقعه المُستقر والعالم المظلم الذي يهدد بكشف ماضيه.",
+        "price": 110,
+        "rating": 5,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 21,
+        "title": "صور من حياة الصحابيات",
+        "cover": "h1.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c3ff7fb46ed0a617352253fd76205047",
+        "author": "د.عبدالرحمن رأفت الباشا",
+        "category": "History",
+        "description": "يقدم الكتاب لمحات مضيئة ومؤثرة من حياة مجموعة مختارة من صحابة رسول الله، مسلطًا الضوء على مواقفهم الثابتة وتضحياتهم الفريدة وإيمانهم القوي، ليجسدوا نماذج حية لعمق التربية النبوية.",
+        "price": 20,
+        "rating": 2,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 22,
+        "title":" منهج البحث التاريخي",
+        "cover": "h2.webp",
+        "link": "https://kidzzstory.com/wp-content/uploads/2025/08/%D8%B5%D8%AF%D9%8A%D9%82-%D8%A7%D9%84%D8%AF%D8%A8-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.pdf",
+        "author": "حسن عثمان",
+        "category": "History",
+        "description": "يقدم هذا الكتاب دليلاً شاملاً لفهم أسس ومراحل كتابة البحث التاريخي، بدءاً من اختيار الموضوع وجمع المصادر وتحليلها، وصولاً إلى صياغة النتائج بطريقة علمية ومحايدة، مع التركيز على نقد الروايات التاريخية.",
+        "price": 30,
+        "rating": 3,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 23,
+        "title": "تاريخ الدولة الفاطمية",
+        "cover": "h3.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c3fb78b367d0a617352253fd762b5c46",
+        "author": "محمد جمال الدين سرور",
+        "category": "History",
+        "description": "يتناول هذا الكتاب تاريخ نشأة الدولة الفاطمية وصعودها وسقوطها، بدءاً من أصولها في شمال أفريقيا وصولاً إلى حكمها في مصر والشام، مع تحليل لمظاهر الحضارة والإنجازات العلمية والفنية التي ميزت عصرهم.",
+        "price": 60,
+        "rating": 5,
+        "reviews": []
+    }
+    ,
+    {
+        "id": 24,
+        "title": "تاريخ إفريقيا الشمالية",
+        "cover": "h4.webp",
+        "link": "https://www.alarabimag.com/download/book/?b=c3fb7cb061d0a617352253fd77225042",
+        "author": "شارل أندري جوليان",
+        "category": "History",
+        "description": "يتتبع هذا الكتاب **التاريخ الطويل والمعقد لشمال إفريقيا** عبر العصور، بدءاً من الحضارات القديمة (مثل الفينيقية والرومانية) مروراً بالفتح الإسلامي، وصولاً إلى المراحل المختلفة لحكمها وتشكيل هويتها المتنوعة.",
+        "price": 40,
+        "rating": 3,
+        "reviews": []
+    }
+   
+]
